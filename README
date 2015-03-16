@@ -1,0 +1,3 @@
+To run:
+
+gccgo mapcast.go -static-libgo
